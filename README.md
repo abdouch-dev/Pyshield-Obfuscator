@@ -43,7 +43,7 @@ I1lI1lI1lI1lI1lI1lI1lI1l('5')
 ### ⚡ **Instant Installation**
 
 ```bash
-git clone https://github.com/yourusername/pyshield-obfuscator.git
+git clone https://github.com/abdouch-dev/pyshield-obfuscator.git
 
 cd pyshield-obfuscator
 
