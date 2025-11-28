@@ -30,8 +30,9 @@ I1lI1lI1lI1lI1lI1lI1lI1l('5')
 ```
 
 #### **Layer 2 - Junk Code Injection**
-- Add non-functional code to complicate analysis
-- Make reverse engineering more difficult
+- Add Junk code
+- 🎯 Still working on a strong junk methods
+
 
 #### **Layer 3 - Advanced Encryption**
 - Uses `marshal`, `zlib`, `lzma`, `base64`
