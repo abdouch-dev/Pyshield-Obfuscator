@@ -19,7 +19,7 @@
 ```python
 def main(x):
     print(x)
-print("5")
+main("5")
 ```
 
 **after:**
