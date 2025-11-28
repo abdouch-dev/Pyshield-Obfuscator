@@ -71,15 +71,8 @@ Pyshield-Obfuscator/
 
 ## 🔧 **Requirements**
 ```bash
-Pyshield-Obfuscator/
-├── main.py              # Main interface
-├── src/                 # 📦 Source code
-│   ├── layer1.py        # Layer 1 - Renaming Algorithm
-│   ├── layer2.py        # Layer 2 - Junk code
-│   └── layer3.py        # Layer 3 - Advanced encryption
-├── output/              # 📂 Encrypted files
-├── requirements.txt     # 📋 Requirements
-└── README.md           
+astor>=0.8.1
+lzma>=0.1.0         
 ```
 
 ## **🛡️ Protection Features**
