@@ -10,7 +10,7 @@ from src.layer2 import add_junk_code
 from src.layer3 import Layer3
 
 def main():
-    file_path = input("[>] Drag & drop your .py file here: ").strip().strip('"').strip("'")
+    file_path = input("[>] type 'your_code.py' file here: ").strip().strip('"').strip("'")
     
     if not file_path.endswith('.py'):
         print("Please Choose a python file!")
@@ -31,4 +31,5 @@ if __name__ == "__main__":
         main()
     except Exception as e:
         print(e)
+
 
